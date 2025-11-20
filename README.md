@@ -207,12 +207,12 @@ Follow this link to know more about the Security Best Practices.[Jenkins Securit
 
 ## ✅ 12. Best Practices Summary
 
-- ✅ Use pipeline-as-code and shared libraries
-- ✅ Enforce RBAC and secure credentials
-- ✅ Monitor system health and job performance
-- ✅ Use ephemeral agents for isolation
-- ✅ Regularly audit plugins and Jenkins version
-- ✅ Document and test backup/restore procedures
+-  Use pipeline-as-code and shared libraries
+-  Enforce RBAC and secure credentials
+-  Monitor system health and job performance
+-  Use ephemeral agents for isolation
+-  Regularly audit plugins and Jenkins version
+-  Document and test backup/restore procedures
 
 ---
 
