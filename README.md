@@ -81,7 +81,7 @@ The diagram shows how Jenkins interacts with all surrounding systems in a CI/CD 
 **In short**, Jenkins sits at the center and communicates with all tools required for building, scanning, storing, deploying, and monitoring software.
 
 
-## 🏛️ 5. High Level Architecture  
+##  5. High Level Architecture  
 <img width="741" height="677" alt="image" src="https://github.com/user-attachments/assets/0dc26c09-07be-45b5-9529-6a028b661f0e" />
 
 ### 🔹 External Access  
