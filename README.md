@@ -3,38 +3,27 @@
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/eb7a94e5-f234-4480-a6b5-f6f03a99e275" />
 
 
+# 📚 Table of Contents
 
-## 📚 Table of Contents
-
-1. 🧭 [Overview](#overview)  
-2. 📌 [Introduction](#introduction)  
-3. 🏗️ [Architecture Summary](#architecture-summary)  
-4. 🌐 [System Context Diagram](#system-context-diagram)  
-5. 🏛️ [High-Level Architecture](#high-level-architecture)  
-6. 🧱 [Component Architecture](#component-architecture)  
-   - 🔧 Jenkins Controller  
-   - 🧰 Jenkins Agents  
-   - 🌐 Reverse Proxy  
-   - 🔌 Plugin Layer  
-   - 📦 Shared Libraries  
-   - 🔐 Credentials Store  
-7. 🖥️ [Infrastructure Specifications](#infrastructure-specifications)  
-8. 🔐 [Security Best Practices](#security-best-practices)  
-   - Authentication & Authorization  
-   - Secrets Management  
-   - Network & OS Hardening  
-   - Plugin Hygiene  
-   - SSL/TLS  
-9. 🚀 [CI/CD Workflow](#cicd-workflow)  
-10. 🧪 [CI/CD Best Practices](#cicd-best-practices)  
-11. 🔄 [Integration Matrix](#integration-matrix)  
-12. 🗄️ [Backup & Disaster Recovery](#backup--disaster-recovery)  
-13. 📑 [Non-Functional Requirements](#non-functional-requirements)  
-14. 📊 [Monitoring & Logging](#monitoring--logging)  
-15. 📈 [Scalability & High Availability](#scalability--high-availability)  
-16. 🧠 [Key Components Summary](#key-components-summary)  
-17. 🧹 [Best Practices Summary](#best-practices-summary)  
-18. 📎 [Appendix](#appendix)  
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Architecture Summary](#architecture-summary)
+4. [System Context Diagram](#system-context-diagram)
+5. [High-Level Architecture](#high-level-architecture)
+6. [Component Architecture](#component-architecture)
+   - [Jenkins Controller](#jenkins-controller)
+   - [Jenkins Agents](#jenkins-agents)
+   - [Reverse Proxy](#reverse-proxy)
+   - [Storage Layer](#storage-layer)
+   - [Networking](#networking)
+7. [CI/CD Workflow](#cicd-workflow)
+8. [Security Architecture](#security-architecture)
+9. [Scalability & HA Design](#scalability--ha-design)
+10. [Backup & Disaster Recovery](#backup--disaster-recovery)
+11. [Monitoring & Logging](#monitoring--logging)
+12. [Tools & Integrations](#tools--integrations)
+13. [Best Practices](#best-practices)
+14. [Conclusion](#conclusion)
 
 ---
 ## 🧭 1. Overview  
